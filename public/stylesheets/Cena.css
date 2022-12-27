@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(231, 231, 178);
+}
+
+#titulo {
+    background-color: rgb(56, 74, 92); border: 5px rgb(226, 226, 216) outset ;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+
+main {
+    text-align: justify;
+}
+
+h2 {
+    background-color: rgb(56, 74, 92); border: 5px white outset;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+  }
+
+video {
+    display: block;
+    margin: auto;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.perreointenso {
+    margin-bottom: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(56, 74, 92); border: 5px outset;
+    color: white;
+}
+
+.elboogyboogy {
+    margin-bottom: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(56, 74, 92); border: 5px outset;
+    color: white;
+}
+
+.mactallega {
+    margin-bottom: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(56, 74, 92); border: 5px outset;
+    color: white; 
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+}
+
+.labels {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+.asideberiaquedar {
+    text-align: left;
+}
+
